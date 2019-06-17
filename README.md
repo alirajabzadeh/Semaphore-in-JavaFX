@@ -8,5 +8,5 @@ Solve the problem using Semaphore.
 # Simulation 
 ![Simuation Gif](https://github.com/alirajabzadeh/Semaphore-in-JavaFX/blob/master/ezgif.com-resize.gif)
 
-## open this project in intllij idea or just compile and run Main.java in Alirajabzadeh Package
+### open this project in intllij idea or just compile and run Main.java in Alirajabzadeh Package
 
